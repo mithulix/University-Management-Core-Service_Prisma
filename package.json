@@ -1,5 +1,5 @@
 {
-  "name": "university-management-core-service",
+  "name": "university-management-core-service-prisma",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.ts",
