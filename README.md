@@ -25,7 +25,7 @@ University Management Core Service is a powerful backend application that facili
 
 1. What is PostgreSQL?
 
-PostgreSQL is an open-source object-relational database management system (RDBMS). It is one of the most popular relational databases in the world, and is used by a wide range of organizations, from small businesses to large enterprises. PostgreSQL is known for its reliability, scalability, and feature richness. It supports a wide range of data types, including relational data, JSON data, and XML data. PostgreSQL also supports a variety of advanced features, such as ACID transactions, foreign keys, and triggers.
+PostgreSQL is an open-source object-relational database management system (RDBMS). It is one of the most popular relational databases in the world, and is used by a wide range of organizations, from small businesses to large enterprises. PostgreSQL is known for its reliability, scalability, and feature richness. It supports a wide range of data types, including relational data, JSON data, and XML data.
 
 2. What is the purpose of a database schema in PostgreSQL?
 
