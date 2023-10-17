@@ -2,11 +2,9 @@
 
 University Management Core Service is a powerful backend application that facilitates the management of university-related data using TypeScript, PostgreSQL, Prisma, and Redis. This app provides a robust foundation for handling student records, courses, and more within the educational ecosystem.
 
-![University Management Core Service Logo]()
-
 ## Table of Contents
 
-- [PostgreSQL Questions](#Question-of-Answers-about-PostgreSQL)
+- [PostgreSQL Questions](#Answering-Questions-of-about-PostgreSQL)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
