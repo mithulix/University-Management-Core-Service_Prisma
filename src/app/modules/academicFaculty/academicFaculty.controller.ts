@@ -1,10 +1,10 @@
 import { Request, Response } from 'express';
 import httpStatus from 'http-status';
-import catchAsync from '../../../shared/catchAsync';
-import pick from '../../../shared/pick';
 import sendResponse from '../../../shared/sendResponse';
 import { academicFacultyFilterableFields } from './academicFaculty.constant';
 import { AcademicFacultyService } from './academicFaculty.service';
+import catchAsync from '../../../shared/catchAsync';
+import pick from '../../../shared/pick';
 
 const createFaculty = catchAsync(async (req: Request, res: Response) => {
   const result = await AcademicFacultyService.createFaculty(req.body);
